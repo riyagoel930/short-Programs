@@ -6,16 +6,15 @@ int main(){
     scanf("%d",&a);
     printf("Enter the second value (b): ");
     scanf("%d",&b);
-   {
-       (a>b)?printf("a is Greater i.e. %d",a):printf("b is Greater i.e. %d",b);
+    {
+   (a>b)?printf("a is Greater i.e. %d",a):printf("b is Greater i.e. %d",b);
    }
 return 0;
   }
+   
+
   
-  
-  
-  
-  Output:
+ Output:
   
 Enter the first value (a): 3
 Enter the second value (b): 5
